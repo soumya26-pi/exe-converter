@@ -1,0 +1,11 @@
+,Brokerage,PDF Table Header,PDF Key,Classification category,columns_to_extract,Table_ending_key,Table_ending_column
+0,Fidelity,Investment activity,Total Investment Activity,Investment Value,This Period,,
+1,Fidelity,Cash Management Activity,Deposits,Deposits & Withdrawals,This Period,,
+2,Fidelity,Cash Management Activity,Withdrawals,Deposits & Withdrawals,This Period,,
+3,Fidelity,Cash Management Activity,Bill Payments,Bill Pay,This Period,,
+4,Fidelity,Cash Management Activity,Fees & Charges,Fees & Charges,This Period,,
+5,Fidelity,Investment activity,"Dividends, Interest & Other Income",Dividends & Dividend Reinvestment,This Period,,
+6,Fidelity,Investment activity,"Dividends, Interest & Other Income",Interest Income,This Period,,
+7,Fidelity,Realized gains & Losses from Sales,Net Gain/Loss,Realized Gains/Losses,Year-to-Date,,
+8,Fidelity,Income Summary,,,,Total,Year-to-Date
+9,Fidelity,CASH MANAGEMENT ACTIVITY,,,,Total Cash Management Activity,Year-to-Date
